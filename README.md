@@ -7,10 +7,10 @@ Passionate about new things around AGI/LLM;<br>
 
 - ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.sql`, `.git`
 - 🌍 Actively contributing to and involved in the **Ruby on Rails Community**
-- 🛠️ Developed Ruby on Rails projects like below:
+- 🛠️ Developed a huge number of Ruby on Rails projects like below:
     - Swimming lesson management system
-    - Content systems with CMS
+    - Content systems with CMS or other 3rd party integraions
     - E-commerce marketplaces
-    - Stripe integrations
-    - Rails upgrading projects
+    - Stripe integrations for different business logics
+    - Rails upgrading for lagecy projects
 - 💬 Reach out to me about **Ruby on Rails**, **React**, **web development**, **remote work**, **agile methodologies**
