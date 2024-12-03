@@ -12,5 +12,5 @@ Passionate about recent new things around AGI/LLM;<br>
     - Content systems with CMS and/or other 3rd party integraions
     - SAAS and E-commerce marketplaces
     - Stripe integrations for different business logics
-    - Rails upgrading for lagecy projects
+    - Rails upgrading for legacy projects
 - 💬 Reach out to me about **Ruby on Rails**, **React**, **web development**, **remote work**, **agile methodologies**
