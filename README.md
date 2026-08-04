@@ -1,8 +1,8 @@
 ## Hello World 👋
 
-#### AI Engineer | Production AI workflows, Rails & end-to-end delivery
+#### Senior Rails & AI Product Engineer — Production AI Workflows & End-to-End Delivery
 
-I'm **Andy Wang**, a senior product engineer based in Xi'an, China (UTC+8).<br>
+I'm **Andy Wang**, a senior Rails & AI Product Engineer based in Xi'an, China (UTC+8).<br>
 Building web software since **2005**, primarily **Ruby on Rails since 2008**, working remotely with US and European teams since **2011**.
 
 My work is the product system *around* model capabilities — multi-stage workflows, application
@@ -23,7 +23,7 @@ state, retries, human review, evaluation and observability — rather than one-o
 ### 💬 Reach out
 
 I'm most useful where a product has real users, non-trivial workflows, and a codebase that has to
-keep working while it changes. Happy to talk about **senior product engineering**, **Rails systems**,
+keep working while it changes. Happy to talk about **senior AI product engineering**, **Rails systems**,
 **production AI workflow integration**, and **end-to-end product delivery**.
 
 💼 [LinkedIn](https://www.linkedin.com/in/yorzi/) ・🌐 [Website](https://www.wangyaodi.com)
