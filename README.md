@@ -8,10 +8,6 @@ Building web software since **2005**, primarily **Ruby on Rails since 2008**, wo
 My work is the product system *around* model capabilities — multi-stage workflows, application
 state, retries, human review, evaluation and observability — rather than one-off prompts or demos.
 
-### 🔭 What I'm working on
-
-- **[HexagramCast](https://hexagramcast.com)** — creator and primary builder. A traceable I Ching *reflection* tool: 8 casting methods (4 traditional, 4 deterministic modern), with the input digest, computation trace, moving lines and classical source layers all inspectable. No fortune-telling, no luck scores. English-first, also in 简体中文 and 繁體中文; web, API and browser-extension entry points.
-
 ### 🛠️ What I build well
 
 - **Rails product systems** — greenfield builds and mature codebases I own over the long term
