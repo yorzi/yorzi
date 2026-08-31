@@ -2,7 +2,7 @@
 
 #### Senior Rails & AI Product Engineer — Production AI Workflows & End-to-End Delivery
 
-I'm **Andy Wang**, a senior Rails & AI Product Engineer based in Xi'an, China (UTC+8).<br>
+I'm **Andy Wang**, a senior Rails & AI Product Engineer lived in UTC+8 timezone.<br>
 Building web software since **2005**, primarily **Ruby on Rails since 2008**, working remotely with US and European teams since **2011**.
 
 My work is the product system *around* model capabilities — multi-stage workflows, application
