@@ -24,4 +24,4 @@ I maintain [ruby_llm-ag-ui](https://github.com/yorzi/ruby_llm-ag-ui) · [rubyllm
 
 **Stack:** Rails 5–8 · Hotwire · Solid Queue · Sidekiq · RubyLLM · PostgreSQL · React & TypeScript · Kamal · Docker
 
-<a href="https://www.wangyaodi.com"><img src="assets/icons/globe.svg" width="14" height="14" alt=""> Website</a> · <a href="https://www.linkedin.com/in/yorzi/"><img src="assets/icons/linkedin.svg" width="14" height="14" alt=""> LinkedIn</a> · <a href="https://x.com/yorzi"><img src="assets/icons/x.svg" width="14" height="14" alt=""> X</a>
+Want to talk? Connect with me on [LinkedIn](https://www.linkedin.com/in/yorzi/) or [X](https://x.com/yorzi)!
