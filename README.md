@@ -18,8 +18,8 @@ tool calls, retries, human review, evals and cost control. Real features, not on
 [RubyLLM](https://github.com/crmne/ruby_llm) and [ActiveAgent](https://github.com/activeagents/activeagent),
 plus a fix in [Rails](https://github.com/rails/rails). [Full list →](https://www.wangyaodi.com/oss.html)
 
-I maintain [ruby_llm-ag-ui](https://github.com/yorzi/ruby_llm-ag-ui) · [rubyllm-workbench](https://github.com/yorzi/rubyllm-workbench) ·
-[rails_tool_views](https://github.com/yorzi/rails_tool_views) · [ruby_llm-browser](https://github.com/yorzi/ruby_llm-browser) ·
+I maintain [rails_ai_admin](https://github.com/yorzi/rails_ai_admin) · [ruby_llm-ag-ui](https://github.com/yorzi/ruby_llm-ag-ui) ·
+[rubyllm-workbench](https://github.com/yorzi/rubyllm-workbench) · [rails_tool_views](https://github.com/yorzi/rails_tool_views) ·
 [openui-rails](https://github.com/yorzi/openui-rails)
 
 **Stack:** Rails 5–8 · Hotwire · Solid Queue · Sidekiq · RubyLLM · PostgreSQL · React & TypeScript · Kamal · Docker
