@@ -14,7 +14,7 @@ tool calls, retries, human review, evals and cost control. Real features, not on
 
 ### Open source
 
-70+ pull requests merged upstream since 2015, mostly reliability work in
+91 pull requests merged upstream since 2015, mostly reliability work in
 [RubyLLM](https://github.com/crmne/ruby_llm) and [ActiveAgent](https://github.com/activeagents/activeagent),
 plus a fix in [Rails](https://github.com/rails/rails). [Full list →](https://www.wangyaodi.com/oss.html)
 
